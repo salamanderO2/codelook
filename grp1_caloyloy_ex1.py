@@ -2,7 +2,7 @@ print("Hello, I'm Caloyloy,Rodrigo A.! BSCS 3F")
 
 # Variables
 # a. Create two variables and assign number and name to it.
-age = 22
+age = 21
 student_name = "Caloyloy,Rodrigo A"
 
 # Many Values to Multiple Variables
